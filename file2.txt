@@ -1,3 +1,5 @@
 This is file2
 
-Im so GOATED
+------------------------
+
+Removed IM SO GOATED for revert commit
